@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.loofile.loofy",
+      "sha256_cert_fingerprints": [
+        "SHA256: FC:85:D7:6D:03:17:1F:91:4A:A1:8E:FD:5A:AE:01:45:75:E0:63:93:24:95:E6:E5:6C:D5:CE:98:8C:33:9E:22"
+      ]
+    }
+  }
+]
