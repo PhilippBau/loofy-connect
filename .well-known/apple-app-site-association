@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["6PK6LU757Z.com.loofile.loofy"],
+        "appID": ["6PK6LU757Z.com.loofile.loofy"],
         "components": [
           { "/": "/loofy-connect/stripe-return*" },
           { "/": "/loofy-connect/stripe-refresh*" }
